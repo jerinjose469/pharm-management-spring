@@ -1,0 +1,262 @@
+@charset "ISO-8859-1";
+
+.loginpage
+{
+    background-image: url("/loginbg.jpg");
+    background-repeat:no-repeat;
+	background-size: cover;
+}
+.loginpage_table
+{
+    color:#2727e8;
+    padding-left:100px;"
+}
+#uname
+{
+width:100%;
+background-color: #1c15a3;
+color: white;
+}
+
+#pwd
+{
+width:100%;
+background-color: #1c15a3;
+color: white;
+}
+.dashboard
+{
+    background-image: url("/images/dash.jpg");
+    background-repeat:no-repeat;
+	background-size: cover;
+}
+.adddruglink
+{
+padding-left:400px;
+color:blue;
+font-size:30px;
+text-shadow: 2px 2px 4px white;
+
+}
+.adddruglink:hover
+{
+padding-left:400px;
+color:#b827cc;
+font-size:30px;
+text-shadow: 5px 4px 4px yellow;
+}
+.stocklink
+{
+padding-left:400px;
+color:blue;
+font-size:30px;
+text-shadow: 2px 2px 4px white;
+}
+.stocklink:hover
+{
+padding-left:400px;
+color:#b827cc;
+font-size:30px;
+text-shadow: 5px 4px 4px yellow;
+}
+.logoutlink
+{
+padding-right:0px;
+padding-left:300px;
+}
+#searchbar
+{
+margin-left:400px;
+width:50%;
+box-sizing: border-box;
+border: 2px solid #ccc;
+border-radius: 4px;
+padding: 8px 10px 10px 20px;
+background-color:#c4f2f0;
+}
+.div1
+{
+	width: 250px;
+    height: 50px;
+	color:blue;
+	background-color:#e3d056;
+	animation-timing-function: linear;
+	position: relative;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove 
+{
+  from {left: 0px;}
+  to {left: 550px;}
+}
+.adddrugbody
+{
+    background-image: url("/images/adddrug.jpg");
+    background-repeat:no-repeat;
+	background-size: cover ;
+}
+.addedmedtable
+{
+ margin-left: 20px;
+ padding-right:50px;
+ width: 80%;
+ border: 4px  black;
+ text-align: left;
+
+}
+.dname
+{
+height:50px;
+color:red;
+font-size:25px;
+background-color:#ece1ed;
+}
+.addbutton
+{
+margin-left: 550px;
+height:30px;
+font-weight:bold;
+background-color:#c5ed40;
+}
+td
+{
+ height:30px;
+ vertical-align: bottom;
+}
+.stocklinkinaddmed
+{
+padding-left:900px;
+color:blue;
+font-size:20px;
+text-shadow: 2px 2px 4px white;
+}
+.stocklinkinaddmed:hover
+{
+padding-left:900px;
+color:#b827cc;
+font-size:20px;
+text-shadow: 5px 4px 4px yellow;
+}
+.listmedbody
+{
+    background-image: url("/images/listbg1.jpg");
+    background-repeat:no-repeat;
+	background-size: cover;
+}
+.listin
+{
+height:30px;
+vertical-align: bottom; 
+background-color:#b5e5e6;
+opacity:1;
+font-size:20px;
+font-color:black;
+}
+#searchbar2
+{
+margin-left:200px;
+width:50%;
+box-sizing: border-box;
+border: 2px solid #ccc;
+border-radius: 4px;
+padding: 8px 10px 10px 20px;
+background-color:#bae5e6;
+}
+.stocklink2
+{
+padding-left:900px;
+color:blue;
+font-size:20px;
+text-shadow: 2px 2px 4px white;
+}
+.stocklink2:hover
+{
+padding-left:900px;
+color:#b827cc;
+font-size:20px;
+text-shadow: 5px 4px 4px yellow;
+}
+.addedmedtable1
+{
+ margin-left: 20px;
+ padding-right:50px;
+ width: 80%;
+ border: 4px  black;
+ text-align: left;
+
+}
+.adddruglink2
+{
+ padding-left:900px;
+color:blue;
+font-size:20px;
+text-shadow: 2px 2px 4px white;
+}
+.adddruglink2:hover
+{
+padding-left:900px;
+color:#b827cc;
+font-size:20px;
+text-shadow: 5px 4px 4px yellow;
+}
+.dname1
+{
+height:40px;
+color:blue;
+font-size:20px;
+background-color:#ece1ed;
+}
+#searchbar3
+{
+margin-left: 860px;
+width:30%;
+box-sizing: border-box;
+border: 5px solid #ccc;
+border-radius: 6px;
+padding: 3px 20px 4px 2px;
+background-color:#d5e359;
+}
+.editbody
+{
+
+    background-image: url("/images/editbg.jpg");
+    background-repeat:no-repeat;
+	background-size:cover ;
+}
+.updatebutton
+{
+
+margin-left: 550px;
+height:30px;
+font-weight:bold;
+background-color:#c5ed40;
+}
+.dname3
+{
+height:50px;
+color:red;
+font-size:25px;
+background-color:#ece1ed;
+}
+.edittable
+{
+ margin-left: 20px;
+ padding-right:50px;
+ width: 80%;
+ border: 4px  black;
+ text-align: left;
+
+}
+.searchbody
+{
+
+    background-image: url("/images/listbg1.jpg");
+    background-repeat:no-repeat;
+	background-size:cover ;
+}
+.detailbody
+{
+	 background-image: url("/images/detail.jpg");
+    background-repeat:no-repeat;
+	background-size:cover ;
+}
